@@ -19,8 +19,8 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2020 Chinmay Bithu</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+              <li>Copyright &copy; 2020 Chinmay Bithu</li>
+              <li>All rights Reserved.</li>
            </ul>
 
         </div>

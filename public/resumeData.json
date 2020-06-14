@@ -1,18 +1,19 @@
 {
   "main": {
     "name":"Chinmay Bithu",
-    "occupation":"Web Developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Frontend Developer & Architect",
+    "description":"building IOT / non-IOT based solutions to optimize Supply Chain for various clients.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am a Bibliophile at heart, with an entrepreneurial spirit and a passion for coding. I've a rich 2 year experience in developing frontend systems. With that being said, I focus to keep up with the new trends in the market and nourish my skills as much as possible.",
+    "biotwo": "I create websites that supercharges the clients with full verve. I love to deliver websites with unchallengeable performance, with top-notch code ready to kickstart the business",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "chinmay.bithu@gmail.com",
     "phone": "+91-8619484072",
     "address":{
-      "street":"Kailashpuri",
-      "city":"Bikaner",
-      "state":"Rajasthan",
-      "zip": "334001"
+      "street":"Namjoshi Rd.",
+      "city":"Bengaluru",
+      "state":"Karnataka",
+      "zip": "560037"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -72,15 +73,15 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
+        "company":"Deloitte",
+        "title":"Business Technology Analyst",
+        "years":"August 2018 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
+        "company":"Ernst & Young",
+        "title":"Intern",
+        "years":"January 2018 - April 2018",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
@@ -90,8 +91,8 @@
         "level":"50%"
       },
       {
-        "name":"Sketch",
-        "level":"10%"
+        "name":"FORMIK",
+        "level":"60%"
       },
       {
         "name":"ReactJs",
@@ -110,8 +111,8 @@
         "level":"70%"
       },
       {
-        "name":"MongoDB",
-        "level":"20%"
+        "name":"REDUX",
+        "level":"80%"
       }
     ]
   },
