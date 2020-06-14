@@ -5,7 +5,7 @@
     "description":"building IOT / non-IOT based solutions to optimize Supply Chain for various clients.",
     "image":"profilepic.jpg",
     "bio":"I am a Bibliophile at heart, with an entrepreneurial spirit and a passion for coding. I've a rich 2 year experience in developing frontend systems. With that being said, I focus to keep up with the new trends in the market and nourish my skills as much as possible.",
-    "biotwo": "I create websites that supercharges the clients with full verve. I love to deliver websites with unchallengeable performance, with top-notch code ready to kickstart the business",
+    "biotwo": "I create websites that supercharges the clients with full verve. I love to deliver websites with unchallengeable performance, with top-notch code ready to kickstart the business.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "chinmay.bithu@gmail.com",
     "phone": "+91-8619484072",
@@ -29,13 +29,13 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/13745871/chinmay-bithu",
+        "className":"fa fa-stack-overflow"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/chinmay-bithu-95477a171/",
         "className":"fa fa-linkedin"
       },
       {
@@ -45,18 +45,13 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/cbithu",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I am always interested in playing around with new technologies but these are the ones that have really won me over",
     "education":[
       {
         "school":"University?",
