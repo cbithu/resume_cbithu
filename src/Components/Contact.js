@@ -31,6 +31,10 @@ class Contact extends Component {
 
             </div>
 
+            <div className="ten columns">
+               <p style={{color: "red", font: "18px/36px 'opensans-light', sans-serif"}}>Warning: Contact form not yet configured, please contact me via normal email for now</p>
+            </div>
+
          </div>
 
          <div className="row">
@@ -83,7 +87,8 @@ class Contact extends Component {
 						   {name}<br />
 						   {street} <br />
 						   {city}, {state} {zip}<br />
-						   <span>{phone}</span>
+						   <span>{phone}</span> <br/>
+                     <span>{email}</span>
 					   </p>
 				   </div>
 
