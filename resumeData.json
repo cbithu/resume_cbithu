@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name":"Chinmay Bithu",
+    "occupation":"Frontend Developer & Architect",
+    "description":"building IOT / non-IOT based solutions to optimize Supply Chain for various clients.",
+    "image":"profilepic.jpg",
+    "bio":"I am a Bibliophile at heart, with an entrepreneurial spirit and a passion for coding. I've a rich 2 year experience in developing frontend systems. With that being said, I focus to keep up with the new trends in the market and nourish my skills as much as possible.",
+    "biotwo": "I create websites that supercharges the clients with full verve. I love to deliver websites with unchallengeable performance, with top-notch code ready to kickstart the business.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "chinmay.bithu@gmail.com",
+    "phone": "+91-8619484072",
+    "address":{
+      "street":"Namjoshi Rd.",
+      "city":"Bengaluru",
+      "state":"Karnataka",
+      "zip": "560037"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/chinmay.bithu/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ChinmayCharan",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"stack-overflow",
+        "url":"https://stackoverflow.com/users/13745871/chinmay-bithu",
+        "className":"fa fa-stack-overflow"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/chinmay-bithu-95477a171/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/dan.chinmay/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/cbithu",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Deloitte",
+        "title":"Business Technology Analyst",
+        "years":"August 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Ernst & Young",
+        "title":"Intern",
+        "years":"January 2018 - April 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"50%"
+      },
+      {
+        "name":"FORMIK",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"70%"
+      },
+      {
+        "name":"REDUX",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
