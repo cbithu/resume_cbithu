@@ -969,6 +969,11 @@ footer .copyright  li:first-child:before {
     display: none;
 }
 
+.heart {
+   height: 15px;
+   width: 15px;
+}
+
 /* social links */
 footer .social-links {
    margin: 18px 0 30px 0;
