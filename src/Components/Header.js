@@ -90,6 +90,7 @@ class Header extends Component {
          var nameArray = this.props.data.nameArray;
          var occupation = this.props.data.occupation;
          var description = this.props.data.description;
+         var company = this.props.data.company;
          var city = this.props.data.address.city;
          var networks = this.props.data.social.map(function (network) {
             return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -119,7 +120,7 @@ class Header extends Component {
             <div className="row banner">
             <div className="banner-text">
                <h1 className="responsive-headline">I'm {name}</h1>
-               <h3>I'm a <span>{city}</span> based <span>{occupation}</span>, {description}</h3>
+               <h3>I'm a <span>{city}</span> based <span>{occupation}</span>, currently employed at <sapn>{company}</sapn>, building <sapn>IOT / non-IOT</sapn> based solutions to <sapn>optimize Supply Chain Network</sapn> for various clients, which are scalable, modular & effecient. Resulting in reduced development time, cleaner & understandable code, huge cost savings and increased asset utilization on the production site.</h3>
                <hr />
                <ul className="social">
                   {networks}

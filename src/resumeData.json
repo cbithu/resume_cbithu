@@ -4,6 +4,7 @@
     "occupation":"Frontend Developer & Architect",
     "description":"currently employed at Deloitte, building IOT / non-IOT based solutions to optimize Supply Chain for various clients.",
     "image":"profilepic.jpg",
+    "company": "Deloitte",
     "bio":"I am a Bibliophile at heart, with an entrepreneurial spirit and a passion for coding. I've a rich 2 year experience in developing frontend systems. With that being said, I focus to keep up with the new trends in the market and nourish my skills as much as possible.",
     "biotwo": "I create websites that supercharges the clients with full verve. I love to deliver websites with unchallengeable performance, with top-notch code ready to kickstart the business.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -112,12 +113,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Chinmay is a persevarant fella.",
+        "user":"Jason Smith"
       },
       {
-        "text":"That Chinmay Bithu must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Chinmay must be one of the most brilliant developers I've ever met!",
+        "user":"Kimberly Hanna"
       }
     ]
   }

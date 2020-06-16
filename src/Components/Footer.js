@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Heart from '../images/heart.png';
 
 class Footer extends Component {
   render() {
@@ -21,6 +22,7 @@ class Footer extends Component {
            <ul className="copyright">
               <li>Copyright &copy; 2020 Chinmay Bithu</li>
               <li>All rights Reserved.</li>
+              <li>Built with <img className="heart" src={Heart} alt="Heart"/> by Chinmay Bithu</li>
            </ul>
 
         </div>
